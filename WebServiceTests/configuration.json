@@ -1,0 +1,7 @@
+{
+  "WeatherInfo": "PageService/{id}",
+  "PageServiceBaseUrl": "http://{ipAddress}/api/v1/",
+  "GetPageByIdPath": "PageService/{id}",
+  "PostPageByPath": "PageService",
+  "AuthorizationToken": "Token TODO"
+}
